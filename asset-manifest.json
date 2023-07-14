@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Real-Estate-Application/static/css/main.b6cbacf7.css",
-    "main.js": "/Real-Estate-Application/static/js/main.b43a4f19.js",
+    "main.js": "/Real-Estate-Application/static/js/main.a1ac09c9.js",
     "static/media/trendingNews-1.png": "/Real-Estate-Application/static/media/trendingNews-1.de07404272996e69fd0d.png",
     "static/media/buy-img6.jpg": "/Real-Estate-Application/static/media/buy-img6.5e5841a0683f26c99390.jpg",
     "static/media/mortgage-img.jpg": "/Real-Estate-Application/static/media/mortgage-img.6d6075759f5e6006098c.jpg",
@@ -77,10 +77,10 @@
     "static/media/trendingNews-12.jpg": "/Real-Estate-Application/static/media/trendingNews-12.40549124dd886d255a9e.jpg",
     "index.html": "/Real-Estate-Application/index.html",
     "main.b6cbacf7.css.map": "/Real-Estate-Application/static/css/main.b6cbacf7.css.map",
-    "main.b43a4f19.js.map": "/Real-Estate-Application/static/js/main.b43a4f19.js.map"
+    "main.a1ac09c9.js.map": "/Real-Estate-Application/static/js/main.a1ac09c9.js.map"
   },
   "entrypoints": [
     "static/css/main.b6cbacf7.css",
-    "static/js/main.b43a4f19.js"
+    "static/js/main.a1ac09c9.js"
   ]
 }
